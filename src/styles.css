@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.box-shadow-3xl {
+    box-shadow: 0px 5px 50px rgba(0, 0, 0, 0.1);
+}
